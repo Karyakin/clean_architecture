@@ -2,7 +2,7 @@
 
 namespace DataAcessImplement.UserDataAcessImplement;
 
-public class GetUsersData: IGetUsersData
+public class GetUsersDataInterfaces: IGetUsersDataInterfaces
 {
     public int GetUserData()
     {

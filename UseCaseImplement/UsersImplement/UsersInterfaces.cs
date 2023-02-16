@@ -5,16 +5,16 @@ namespace UseCaseImplement.UsersImplement;
 
 public class UsersInterfaces : IUsersInterfaces
 {
-    private readonly IGetUsersData _getUsersData;
+    private readonly IGetUsersDataInterfaces _getUsersDataInterfaces;
 
-    public UsersInterfaces(IGetUsersData getUsersData)
+    public UsersInterfaces(IGetUsersDataInterfaces getUsersDataInterfaces)
     {
-        _getUsersData = getUsersData;
+        _getUsersDataInterfaces = getUsersDataInterfaces;
     }
 
     public int GetUsers()
     {
-        var userDat = _getUsersData.GetUserData();
+        var userDat = _getUsersDataInterfaces.GetUserData();
         return userDat + 1;
     }
 }

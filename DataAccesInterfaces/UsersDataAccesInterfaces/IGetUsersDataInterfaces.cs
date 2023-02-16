@@ -1,6 +1,6 @@
 ﻿namespace DataAccesInterfaces.UsersDataAccesInterfaces;
 
-public interface IGetUsersData
+public interface IGetUsersDataInterfaces
 {
     public int GetUserData();
 }
