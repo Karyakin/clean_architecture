@@ -1,0 +1,15 @@
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\bin\Debug\net6.0\DataAcessImplement.deps.json
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\bin\Debug\net6.0\DataAcessImplement.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\bin\Debug\net6.0\DataAcessImplement.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\bin\Debug\net6.0\DataAccesInterfaces.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\bin\Debug\net6.0\DataAccesInterfaces.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\DataAcessImplement.csproj.AssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\DataAcessImplement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\DataAcessImplement.AssemblyInfoInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\DataAcessImplement.AssemblyInfo.cs
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\DataAcessImplement.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\DataAcessImplement.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\DataAcessImplement.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\refint\DataAcessImplement.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\DataAcessImplement.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\ref\DataAcessImplement.dll

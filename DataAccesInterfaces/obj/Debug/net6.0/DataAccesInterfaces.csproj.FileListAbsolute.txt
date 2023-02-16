@@ -1,0 +1,12 @@
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\bin\Debug\net6.0\DataAccesInterfaces.deps.json
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\bin\Debug\net6.0\DataAccesInterfaces.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\bin\Debug\net6.0\DataAccesInterfaces.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\obj\Debug\net6.0\DataAccesInterfaces.csproj.AssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\obj\Debug\net6.0\DataAccesInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\obj\Debug\net6.0\DataAccesInterfaces.AssemblyInfoInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\obj\Debug\net6.0\DataAccesInterfaces.AssemblyInfo.cs
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\obj\Debug\net6.0\DataAccesInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\obj\Debug\net6.0\DataAccesInterfaces.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\obj\Debug\net6.0\refint\DataAccesInterfaces.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\obj\Debug\net6.0\DataAccesInterfaces.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAccesInterfaces\obj\Debug\net6.0\ref\DataAccesInterfaces.dll

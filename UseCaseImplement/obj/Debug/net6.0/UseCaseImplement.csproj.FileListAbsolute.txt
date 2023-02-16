@@ -1,0 +1,17 @@
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\UseCaseImplement.csproj.AssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\UseCaseImplement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\UseCaseImplement.AssemblyInfoInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\UseCaseImplement.AssemblyInfo.cs
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\UseCaseImplement.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\UseCaseImplement.deps.json
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\UseCaseImplement.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\UseCaseImplement.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\UseCaseInterfaces.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\UseCaseInterfaces.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\UseCaseImplement.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\UseCaseImplement.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\refint\UseCaseImplement.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\UseCaseImplement.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\ref\UseCaseImplement.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\DataAccesInterfaces.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\DataAccesInterfaces.pdb

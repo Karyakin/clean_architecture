@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Controllers\Controllers.csproj" />
+    <ProjectReference Include="..\DataAccesInterfaces\DataAccesInterfaces.csproj" />
+    <ProjectReference Include="..\DataAcessImplement\DataAcessImplement.csproj" />
+    <ProjectReference Include="..\UseCaseImplement\UseCaseImplement.csproj" />
+    <ProjectReference Include="..\UseCaseInterfaces\UseCaseInterfaces.csproj" />
+  </ItemGroup>
+
+</Project>
