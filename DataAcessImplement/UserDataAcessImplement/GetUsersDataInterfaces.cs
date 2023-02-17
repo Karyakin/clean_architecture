@@ -1,11 +1,16 @@
 ﻿using DataAccesInterfaces.UsersDataAccesInterfaces;
+using Entities.UserEntity;
 
 namespace DataAcessImplement.UserDataAcessImplement;
 
 public class GetUsersDataInterfaces: IGetUsersDataInterfaces
 {
-    public int GetUserData()
+    public User GetUserData()
     {
-        return 777;
+        return new User
+        {
+            Name = "Дима",
+            Age = 28
+        };
     }
 }

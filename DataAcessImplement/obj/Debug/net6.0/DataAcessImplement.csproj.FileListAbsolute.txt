@@ -13,3 +13,5 @@ C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\n
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\refint\DataAcessImplement.dll
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\DataAcessImplement.pdb
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\obj\Debug\net6.0\ref\DataAcessImplement.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\bin\Debug\net6.0\Entities.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\DataAcessImplement\bin\Debug\net6.0\Entities.pdb

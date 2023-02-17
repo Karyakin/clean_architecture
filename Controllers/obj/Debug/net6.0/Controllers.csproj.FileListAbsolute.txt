@@ -15,3 +15,5 @@ C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Controllers\obj\Debug\net6.0\C
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Controllers\bin\Debug\net6.0\UseCaseInterfaces.dll
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Controllers\bin\Debug\net6.0\UseCaseInterfaces.pdb
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Controllers\obj\Debug\net6.0\Controllers.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Controllers\bin\Debug\net6.0\Entities.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Controllers\bin\Debug\net6.0\Entities.pdb

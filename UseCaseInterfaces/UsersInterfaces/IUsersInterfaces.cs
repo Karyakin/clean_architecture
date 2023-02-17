@@ -1,6 +1,6 @@
 ﻿namespace UseCaseInterfaces.UsersInterfaces;
-
+using Entities.UserEntity;
 public interface IUsersInterfaces
 {
-    public int GetUsers();
+    public User GetUsers();
 }

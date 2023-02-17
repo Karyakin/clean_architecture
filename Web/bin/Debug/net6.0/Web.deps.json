@@ -650,16 +650,25 @@
         }
       },
       "DataAccesInterfaces/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "runtime": {
           "DataAccesInterfaces.dll": {}
         }
       },
       "DataAcessImplement/1.0.0": {
         "dependencies": {
-          "DataAccesInterfaces": "1.0.0"
+          "DataAccesInterfaces": "1.0.0",
+          "Entities": "1.0.0"
         },
         "runtime": {
           "DataAcessImplement.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "runtime": {
+          "Entities.dll": {}
         }
       },
       "UseCaseImplement/1.0.0": {
@@ -672,6 +681,9 @@
         }
       },
       "UseCaseInterfaces/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "runtime": {
           "UseCaseInterfaces.dll": {}
         }
@@ -1255,6 +1267,11 @@
       "sha512": ""
     },
     "DataAcessImplement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

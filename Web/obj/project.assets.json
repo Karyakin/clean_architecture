@@ -1331,6 +1331,9 @@
       "DataAccesInterfaces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/DataAccesInterfaces.dll": {}
         },
@@ -1342,13 +1345,24 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "DataAccesInterfaces": "1.0.0"
+          "DataAccesInterfaces": "1.0.0",
+          "Entities": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DataAcessImplement.dll": {}
         },
         "runtime": {
           "bin/placeholder/DataAcessImplement.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
         }
       },
       "UseCaseImplement/1.0.0": {
@@ -1368,6 +1382,9 @@
       "UseCaseInterfaces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/UseCaseInterfaces.dll": {}
         },
@@ -4380,6 +4397,11 @@
       "type": "project",
       "path": "../DataAcessImplement/DataAcessImplement.csproj",
       "msbuildProject": "../DataAcessImplement/DataAcessImplement.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
     },
     "UseCaseImplement/1.0.0": {
       "type": "project",

@@ -15,3 +15,5 @@ C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\obj\Debug\net6.0\ref\UseCaseImplement.dll
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\DataAccesInterfaces.dll
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\DataAccesInterfaces.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\Entities.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\UseCaseImplement\bin\Debug\net6.0\Entities.pdb

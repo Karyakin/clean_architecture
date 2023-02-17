@@ -1,20 +1,22 @@
 ﻿using DataAccesInterfaces.UsersDataAccesInterfaces;
+using Entities.UserEntity;
 using UseCaseInterfaces.UsersInterfaces;
 
 namespace UseCaseImplement.UsersImplement;
 
-public class UsersInterfaces : IUsersInterfaces
+public class UsersImplement : IUsersInterfaces
 {
     private readonly IGetUsersDataInterfaces _getUsersDataInterfaces;
 
-    public UsersInterfaces(IGetUsersDataInterfaces getUsersDataInterfaces)
+    public UsersImplement(IGetUsersDataInterfaces getUsersDataInterfaces)
     {
         _getUsersDataInterfaces = getUsersDataInterfaces;
     }
 
-    public int GetUsers()
+    public User GetUsers()
     {
-        var userDat = _getUsersDataInterfaces.GetUserData();
-        return userDat + 1;
+        var user = _getUsersDataInterfaces.GetUserData();
+        return user;
     }
+
 }

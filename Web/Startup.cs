@@ -64,7 +64,7 @@ namespace Web
                     }
                 });
             });
-            services.AddScoped<IUsersInterfaces, UsersInterfaces>();
+            services.AddScoped<IUsersInterfaces, UsersImplement>();
             services.AddScoped<IGetUsersDataInterfaces, GetUsersDataInterfaces>();
         }
 

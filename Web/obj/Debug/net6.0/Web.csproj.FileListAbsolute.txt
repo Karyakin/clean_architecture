@@ -42,3 +42,5 @@ C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Web\bin\Debug\net6.0\DataAcces
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Web\bin\Debug\net6.0\DataAcessImplement.dll
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Web\bin\Debug\net6.0\DataAccesInterfaces.pdb
 C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Web\bin\Debug\net6.0\DataAcessImplement.pdb
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Web\bin\Debug\net6.0\Entities.dll
+C:\Users\d.karyakin\Desktop\Project\Web_Archetect\Web\bin\Debug\net6.0\Entities.pdb

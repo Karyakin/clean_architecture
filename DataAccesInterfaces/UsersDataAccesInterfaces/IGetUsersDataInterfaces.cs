@@ -1,6 +1,8 @@
-﻿namespace DataAccesInterfaces.UsersDataAccesInterfaces;
+﻿using Entities.UserEntity;
+
+namespace DataAccesInterfaces.UsersDataAccesInterfaces;
 
 public interface IGetUsersDataInterfaces
 {
-    public int GetUserData();
+    public User GetUserData();
 }
